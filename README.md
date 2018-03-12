@@ -7,6 +7,11 @@ The standard is designed and developed to maintain a high degree of versatility.
 
 The main benefits of the Czech Standard are the easier integration of TPP at banks, including without any other intermediaries, ensuring a uniform interpretation of the Directive in the Czech market, compliance with the content of the transmitted data and security elements in communication with banks, support for the unified functioning of services for clients across banks, timely readiness for the implementation of PSD2.
 
+## Actual version of Czech Standard for Open Banking
+
+* Czech Standard for Open Banking [EN] () _comming soon_
+* Czech Standard for Open Banking [CZ] (https://github.com/Czech-BA/COBS/CzechOpenBankingStandard_CZ.pdf)
+
 ## Parts
 
 The Czech Standard for Open Banking consists of these parts:
@@ -25,4 +30,4 @@ You found a bug, have a question? For such cases, you can enter a problem or que
 * First of all, check with what version of the standard you are working on.
 * Before you start typing a problem or query, make sure your question is no longer solved.
 * To enter a problem or query, you need to know which areas of the standard it concerns. Areas described by the standard are listed above.
-* Include all this information in a new issue on our [Issue Tracker](https://github.com/CzechBankingAssociation/COBS/issues)
+* Include all this information in a new issue on our [Issue Tracker](https://github.com/Czech-BA/COBS/issues)
